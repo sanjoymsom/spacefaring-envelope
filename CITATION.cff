@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper below."
+title: "spacefaring-envelope: multistage rocket optimization and the spacefaring envelope of habitable super-Earths"
+authors:
+  - family-names: "Som"
+    given-names: "Sanjoy M."
+    affiliation: "Blue Marble Space"
+    email: "sanjoy@bmsis.org"
+repository-code: "https://github.com/sanjoymsom/spacefaring-envelope"
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-22"
+keywords:
+  - astrobiology
+  - exoplanets
+  - technosignatures
+  - planetary geophysics
+  - rocket propulsion
+  - habitability
+preferred-citation:
+  type: conference-paper
+  title: "Multistage Rocket Optimization, Geophysics, and the Spacefaring Envelope of Habitable Super-Earths"
+  authors:
+    - family-names: "Som"
+      given-names: "Sanjoy M."
+      affiliation: "Blue Marble Space"
+  collection-title: "Proceedings IAU Symposium No. 404"
+  year: 2024
+  editors:
+    - family-names: "Haqq-Misra"
+      given-names: "J."
+    - family-names: "Kopparapu"
+      given-names: "R."
+  doi: "10.1017/xxxxx"
