@@ -8,8 +8,13 @@ authors:
     email: "sanjoy@bmsis.org"
 repository-code: "https://github.com/sanjoymsom/spacefaring-envelope"
 license: MIT
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-06-22"
+doi: "10.5281/zenodo.20805502"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20805502"
+    description: "Zenodo archive of release v1.0.1"
 keywords:
   - astrobiology
   - exoplanets

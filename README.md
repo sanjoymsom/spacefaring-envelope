@@ -1,5 +1,8 @@
 # Spacefaring envelope of habitable super-Earths
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20805502.svg)](https://doi.org/10.5281/zenodo.20805502)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Analysis code for the paper:
 
 > **Multistage Rocket Optimization, Geophysics, and the Spacefaring Envelope of Habitable Super-Earths**
@@ -74,8 +77,10 @@ and table, including output filenames and where they are written.
 
 ## Citing
 
-If you use this code, please cite the paper above and this repository (see
-[CITATION.cff](CITATION.cff)).
+If you use this code, please cite the paper above and the archived software
+release. Version 1.0.1 is archived on Zenodo with DOI
+[10.5281/zenodo.20805502](https://doi.org/10.5281/zenodo.20805502); citation
+metadata is in [CITATION.cff](CITATION.cff).
 
 ## License
 
